@@ -1,0 +1,88 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+    padding-bottom: 0.5em;
+}
+.carousel-inner > .carousel-item > img {
+    margin: 0 auto;
+  }
+  .carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 5px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: none ;
+    color:black;
+    text-align: center;
+}
+.sectionLight{
+    background-color: #eceeef;
+    padding:2rem;
+}
+.sectionDark{
+    background-color:#cccccc;
+    padding:3rem;
+}
+.wrapper{
+    margin-top: 1em;
+}
+button.coolbtn{
+    background-color: rgb(112, 0, 56);
+    display: block;
+    margin:auto;
+}
+h5.modal-title{
+    margin-left: 8em;
+    
+}
+.modalformwrapper{
+    padding: 2rem;
+}
+button.subtype{
+    background-color: rgb(22, 172, 22);
+}
+.buttonwrapper{
+    margin-top: 1em;
+    margin-bottom:1em;
+}
+.coolbtncol{
+    background-color: rgb(112, 0, 56);
+    display: block;
+    margin:auto;
+    width:58%;
+}
+.imgCenter{
+    display:block;
+    margin:auto;
+}
+.footerImg{
+    padding:1em;
+}
+.fa-facebook-square{
+    color:#3b5998;
+    padding:8px;
+}
+.fa-twitter{
+    color:rgb(42, 191, 236);
+    padding:8px;
+}
+
+.fa-instagram{
+    color:white;
+    padding:8px;
+}
+.fa-whatsapp{
+    color:rgb(11, 236, 11);
+    padding:8px;
+}
+
+.icons{
+    padding-top: 2.5em;
+}
+.copyright{
+    text-align: right;
+    margin-top:5em;
+    color:whitesmoke;
+}
